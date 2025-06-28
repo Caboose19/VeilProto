@@ -1,3 +1,2 @@
 # VeilProto
-
-Developed with Unreal Engine 5
+Prototype for Veil
